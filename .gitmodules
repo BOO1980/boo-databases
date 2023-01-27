@@ -1,0 +1,3 @@
+[submodule "boo-sql"]
+	path = boo-sql
+	url = https://github.com/BOO1980/boo-sql.git
