@@ -1,3 +1,6 @@
 [submodule "boo-sql"]
 	path = boo-sql
 	url = https://github.com/BOO1980/boo-sql.git
+[submodule "boo-postgres"]
+	path = boo-postgres
+	url = https://github.com/BOO1980/boo-postgres.git
