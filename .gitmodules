@@ -7,3 +7,6 @@
 [submodule "boo-oracle"]
 	path = boo-oracle
 	url = https://github.com/BOO1980/boo-oracle.git
+[submodule "boo-mssql"]
+	path = boo-mssql
+	url = https://github.com/BOO1980/boo-mssql.git
