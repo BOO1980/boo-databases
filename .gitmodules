@@ -10,3 +10,6 @@
 [submodule "boo-mssql"]
 	path = boo-mssql
 	url = https://github.com/BOO1980/boo-mssql.git
+[submodule "boo-sql-server"]
+	path = boo-sql-server
+	url = https://github.com/BOO1980/boo-sql-server.git
